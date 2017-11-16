@@ -1,0 +1,5 @@
+'/products', 'application.controllers.products.index.Index',
+'/products/view/(.+)', 'application.controllers.products.view.View',
+'/products/edit/(.+)', 'application.controllers.products.edit.Edit',
+'/products/delete/(.+)', 'application.controllers.products.delete.Delete',
+'/products/insert', 'application.controllers.products.insert.Insert',
