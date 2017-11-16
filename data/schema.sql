@@ -1,6 +1,4 @@
-CREATE DATABASE pythonistas2017;
-
-USE pythonistas2017;
+USE qu5vnrzlly7v7d86;
 
 CREATE TABLE users(
     username varchar(20) NOT NULL PRIMARY KEY,
